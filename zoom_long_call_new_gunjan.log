@@ -1,0 +1,28 @@
+2025-05-09 23:15:06,419: zoom_long_call_new_gunjan :INFO: MainThread :242:	Starting the script
+2025-05-09 23:15:06,422: zoom_long_call_new_gunjan :INFO: Thread-1 :163:	Checking for jobs to process
+2025-05-09 23:15:09,648: zoom_long_call_new_gunjan :INFO: Thread-1 :207:	No job processing data found going to sleep - 15 seconds
+2025-05-09 23:15:24,661: zoom_long_call_new_gunjan :INFO: Thread-1 :163:	Checking for jobs to process
+2025-05-09 23:15:27,045: zoom_long_call_new_gunjan :INFO: Thread-1 :207:	No job processing data found going to sleep - 15 seconds
+2025-05-09 23:15:42,053: zoom_long_call_new_gunjan :INFO: Thread-1 :163:	Checking for jobs to process
+2025-05-09 23:15:44,255: zoom_long_call_new_gunjan :INFO: Thread-1 :207:	No job processing data found going to sleep - 15 seconds
+2025-05-09 23:15:59,257: zoom_long_call_new_gunjan :INFO: Thread-1 :163:	Checking for jobs to process
+2025-05-09 23:16:01,417: zoom_long_call_new_gunjan :INFO: Thread-1 :207:	No job processing data found going to sleep - 15 seconds
+2025-05-09 23:16:16,431: zoom_long_call_new_gunjan :INFO: Thread-1 :163:	Checking for jobs to process
+2025-05-09 23:16:18,611: zoom_long_call_new_gunjan :INFO: Thread-1 :207:	No job processing data found going to sleep - 15 seconds
+2025-05-09 23:16:33,616: zoom_long_call_new_gunjan :INFO: Thread-1 :163:	Checking for jobs to process
+2025-05-09 23:16:36,165: zoom_long_call_new_gunjan :INFO: Thread-1 :207:	No job processing data found going to sleep - 15 seconds
+2025-05-09 23:16:51,167: zoom_long_call_new_gunjan :INFO: Thread-1 :163:	Checking for jobs to process
+2025-05-09 23:16:53,369: zoom_long_call_new_gunjan :INFO: Thread-1 :207:	No job processing data found going to sleep - 15 seconds
+2025-05-09 23:17:06,435: zoom_long_call_new_gunjan :INFO: MainThread :248:	Job processing thread started
+2025-05-09 23:17:06,435: zoom_long_call_new_gunjan :INFO: MainThread :253:	Lock released. Exiting script.
+2025-05-09 23:18:54,466: zoom_long_call_new_gunjan :INFO: MainThread :242:	Starting the script
+2025-05-09 23:18:54,469: zoom_long_call_new_gunjan :INFO: Thread-1 :163:	Checking for jobs to process
+2025-05-09 23:18:56,869: zoom_long_call_new_gunjan :INFO: Thread-1 :207:	No job processing data found going to sleep - 30 seconds
+2025-05-09 23:19:26,879: zoom_long_call_new_gunjan :INFO: Thread-1 :163:	Checking for jobs to process
+2025-05-09 23:19:29,429: zoom_long_call_new_gunjan :INFO: Thread-1 :207:	No job processing data found going to sleep - 30 seconds
+2025-05-09 23:19:59,431: zoom_long_call_new_gunjan :INFO: Thread-1 :163:	Checking for jobs to process
+2025-05-09 23:20:01,726: zoom_long_call_new_gunjan :INFO: Thread-1 :207:	No job processing data found going to sleep - 30 seconds
+2025-05-09 23:20:31,738: zoom_long_call_new_gunjan :INFO: Thread-1 :163:	Checking for jobs to process
+2025-05-09 23:20:34,135: zoom_long_call_new_gunjan :INFO: Thread-1 :207:	No job processing data found going to sleep - 30 seconds
+2025-05-09 23:20:54,474: zoom_long_call_new_gunjan :INFO: MainThread :248:	Max time reached, stopping the script.
+2025-05-09 23:20:54,475: zoom_long_call_new_gunjan :INFO: MainThread :253:	Lock released. Exiting script.
