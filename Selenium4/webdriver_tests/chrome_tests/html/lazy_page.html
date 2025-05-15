@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lazy Loading Example with Mixed Delay</title>
+</head>
+<body>
+
+    <h1>Lazy Loading Example with Mixed Delay</h1>
+    <div style="width: 800px; height: 500px;">
+        <!-- Lazy-loaded images -->
+        <img src="cycle.jpg" data-src="scooter.jpg" alt="Lazy-loaded Image 1" loading="lazy" width="33%">
+        <img src="cycle.jpg" data-src="bike.jpg" alt="Lazy-loaded Image 2" loading="lazy" width="33%">
+        <img src="cycle.jpg" data-src="cruiz.jpg" alt="Lazy-loaded Image 3" loading="lazy" width="33%">
+    </div>
+
+
+    <script>
+        // JavaScript to handle lazy loading with mixed delays
+        document.addEventListener("DOMContentLoaded", function() {
+            // Load the first image instantly
+            var firstImage = document.querySelector('img[data-src="scooter.jpg"]');
+            firstImage.src = firstImage.dataset.src;
+
+            // Load the other two images after a 2-second delay
+            setTimeout(function() {
+                var lazyImages = document.querySelectorAll('img[data-src]');
+                
+                lazyImages.forEach(function(img) {
+                    img.src = img.dataset.src;
+                });
+            }, 2000); // 2 seconds delay
+        });
+    </script>
+
+</body>
+</html>
