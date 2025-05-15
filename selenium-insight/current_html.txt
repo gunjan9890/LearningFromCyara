@@ -1,0 +1,34 @@
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TPWCDDD" 
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+    <div id="login-window">
+        
+<div id="login-window-inner">
+    <div id="login-logo"><img src="https://spearline-web-media.s3-eu-west-1.amazonaws.com/company/logo/spearline_login_logo.png" alt=""></div>
+    <div id="login-header"><div style="display:inline;padding-left: 5%">Log in to the Spearline Platform</div></div>
+    <div id="flashbox">
+            </div>
+    <div id="login-credentials">
+        <form method="post" accept-charset="utf-8" action="/admin/user/login"><div style="display:none;"><input type="hidden" name="_method" value="POST"><input type="hidden" name="_csrfToken" autocomplete="off" value="c2120b07003c4be34dd0d44b8e9994fceb283e2e19f1c4d199f545c88618f968984eb23340a06ae87f1387392b3c90979ceff0696f3f800773d43562e90e3c46"></div>        <label for="email">Email address</label><input type="email" name="email" placeholder="Enter your email" autofocus="autofocus" required="required" id="email">        <div id="login-forgotpassword">
+            <div id="text-forgotpassword"><span class="blue">Forgot your password? </span></div>
+            <div id="text-forgotpassword_login" class="hiddenelem"><span class="blue">Login</span></div>
+        </div>
+        <label for="password">Password</label><input type="password" name="password" placeholder="Enter your password" id="password">        <input type="submit" id="log-in" value="LOG IN">        <div id="remember_div">
+            <input type="hidden" name="rememberme" value="0"><label for="rememberme"><input type="checkbox" name="rememberme" value="1" id="rememberme">Remember me</label>        </div>
+        </form>    </div>
+    <div id="login-new-account">
+        <div style="display:inline;padding-left: 5%">Don't have an account?</div>
+        <div id="login-get-started"><a href="https://www.spearline.com/lp-platform-request/" id="get-started" target="_blank">GET STARTED</a></div>
+    </div>
+    <div id="login-footer" class="hiddenelem">
+        <!-- <div id='credentials-forget'>Please enter your user email address:</div> -->
+        <form method="post" accept-charset="utf-8" action="/admin/user/forgot-password"><div style="display:none;"><input type="hidden" name="_method" value="POST"><input type="hidden" name="_csrfToken" autocomplete="off" value="c2120b07003c4be34dd0d44b8e9994fceb283e2e19f1c4d199f545c88618f968984eb23340a06ae87f1387392b3c90979ceff0696f3f800773d43562e90e3c46"></div>        <input type="email" name="email" placeholder="Enter your email address" id="email">        <input type="submit" id="resetPasswordButton" value="RESET PASSWORD">
+        </form>    </div>
+</div>
+    </div>
+
+
+<script type="text/javascript" id="">(function(a,e,b,f,g,c,d){a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)};c=e.createElement(f);c.async=1;c.src="https://www.clarity.ms/tag/"+g+"?ref\x3dgtm2";d=e.getElementsByTagName(f)[0];d.parentNode.insertBefore(c,d)})(window,document,"clarity","script","gjr3dnx9g1");</script><iframe id="_hjSafeContext_32667407" title="_hjSafeContext" tabindex="-1" aria-hidden="true" src="about:blank" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe></body>
